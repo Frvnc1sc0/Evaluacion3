@@ -1,0 +1,21 @@
+ * Serving Flask app "SQL" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:9500/ (Press CTRL+C to quit)
+127.0.0.1 - - [21/Jun/2023 16:45:13] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Jun/2023 16:46:47] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Jun/2023 16:47:06] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Jun/2023 16:47:21] "[37mPOST /login/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Jun/2023 16:47:42] "[37mPOST /login/v1 HTTP/1.1[0m" 200 -
+ * Serving Flask app "SQL" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:9500/ (Press CTRL+C to quit)
+127.0.0.1 - - [21/Jun/2023 16:51:15] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Jun/2023 16:51:58] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Jun/2023 16:52:08] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Jun/2023 16:52:18] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
